@@ -42,9 +42,9 @@
         <section>
             <h2>Certifications</h2>
             <ul>
-                <li><a href="https://CERTIFICATION_1_LINK" target="_blank">Tableau Desktop Specialist</a></li>
-                <li><a href="https://CERTIFICATION_2_LINK" target="_blank">SQL (Advanced) by HackerRank</a></li>
-                <li><a href="https://CERTIFICATION_3_LINK" target="_blank">dbt Fundamentals</a></li>
+                <li><a>Tableau Desktop Specialist</a></li>
+                <li><a>SQL (Advanced) by HackerRank</a></li>
+                <li><a>dbt Fundamentals</a></li>
             </ul>
         </section>
     </main>
